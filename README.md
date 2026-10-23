@@ -77,4 +77,4 @@ The README's glow and cue highlight use decorative CSS animation with reduced-mo
 
 Regenerate artwork with `python3 tools/generate_readme_assets.py`. The repository has no runtime packages or bundled AI model. Conversion behavior is instructed by [SKILL.md](SKILL.md), not a deterministic text-conversion executable.
 
-MIT licensed. Built for a little more eye contact.
+MIT licensed. Built for a little more eye contact..
